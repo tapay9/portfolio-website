@@ -1,42 +1,57 @@
-# Typefolio - NextJs Template
+# My Portfolio Website
 
-#### Preview
+This is my personal portfolio website built using the Typefolio Next.js template. It showcases my background, technical skills, and projects with a focus on data analytics.
 
- - [Demo](https://themewagon.github.io/Typefolio/)
+## Features
 
-#### Download
- - [Download from ThemeWagon](https://themewagon.com/themes/Typefolio/)
+- Responsive design
+- About Me section
+- Skills and Technologies
+- Projects showcase
+- Contact information
+
+## Technologies Used
+
+- Next.js
+- React
+- TypeScript
+- CSS
+- JavaScript
+
+## Purpose
+
+I customized this template to create a professional portfolio that highlights my experience in data analytics and software development. The website serves as a central place to display my projects, resume, and technical skills.
 
 ## Getting Started
 
-1. Clone Repository
+Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/your-repository-name.git
 ```
-git clone https://github.com/themewagon/Typefolio.git
+
+Install dependencies:
+
+```bash
+npm install
 ```
-2. Install Dependencies
-```
-npm i
-```
-3. Run the development server:
+
+Run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-## Author 
-```
-Design and code is completely written by Getnextjstemplates and Wrappixel team. 
-```
+Open `http://localhost:3000` in your browser to view the project.
+
+## Future Improvements
+
+- Add more data analytics projects
+- Improve animations and UI
+- Integrate a blog section
+- Deploy the website for public access
 
 ## License
 
- - Design and Code is Copyright &copy; [Getnextjstemplates](https://getnextjstemplates.com)
- - Licensed cover under [MIT]
- - Distributed by [ThemeWagon](https://themewagon.com)
+This project is based on the Typefolio Next.js template and has been customized for personal portfolio use.
 
